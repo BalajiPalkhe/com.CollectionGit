@@ -55,7 +55,7 @@ public class AddMethod
 		al1.add(50);
 		al1.add(40);
 		al1.add(10);
-	
+	//test
 		
 		boolean isEquals=al.equals(al1);
 		
